@@ -25,3 +25,23 @@
 
 * use Blade to create prompts
 * version control with git
+
+
+## app/AI folders
+
+* app/AI/Agents/Planner.php
+* app/AI/Guardrails/PII.php
+* app/AI/Handlers/ExcelConverter.php
+* app/AI/Handlers/MarkdownConverter.php
+* app/AI/Memory/LongTerm.php
+* app/AI/Memory/ShortTerm.php
+* app/AI/Multimodal/Audio/Transcribe.php
+* app/AI/Multimodal/Image/Upscale.php
+* app/AI/Multimodal/Music/Mashup.php
+* app/AI/Multimodal/Video/Describe.php
+* app/AI/Pipelines/ProposalMaker.php
+* app/AI/Retrieval/Load.php
+* app/AI/Retrieval/Split.php
+* app/AI/Skills/WebSearch.php
+* app/AI/Utils/Logging.php
+* app/AI/Utils/Token.php
