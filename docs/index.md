@@ -11,3 +11,11 @@
 * Create a /docs folder with `mkdox new .`
 * Preview the docs with `mkdox serve`
 * required first: [`basher install pforret/mkdox`](https://github.com/pforret/mkdox)
+
+
+## add LLM clients
+
+* OpenAI ChatGPT: `composer require openai-php/laravel`
+* Anthropic Claude: `composer require mozex/anthropic-laravel`
+* Google Gemini: `composer require google-gemini-php/laravel`
+* ...
