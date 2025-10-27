@@ -1,1 +1,1 @@
-# Laravel Generative A.I. Project
+docs/index.md
