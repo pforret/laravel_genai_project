@@ -9,6 +9,7 @@
 ## add /docs
 
 * Create a /docs folder with `mkdox new .`
+* Add examples to docs/examples folder
 * Preview the docs with `mkdox serve`
 * required first: [`basher install pforret/mkdox`](https://github.com/pforret/mkdox)
 
@@ -35,6 +36,7 @@
 * app/AI/Handlers/MarkdownConverter.php
 * app/AI/Memory/LongTerm.php
 * app/AI/Memory/ShortTerm.php
+* app/AI/MCP/MovieLookup.php
 * app/AI/Multimodal/Audio/Transcribe.php
 * app/AI/Multimodal/Image/Upscale.php
 * app/AI/Multimodal/Music/Mashup.php
