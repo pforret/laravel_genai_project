@@ -19,3 +19,9 @@
 * Anthropic Claude: `composer require mozex/anthropic-laravel`
 * Google Gemini: `composer require google-gemini-php/laravel`
 * ...
+
+
+## resources/views/prompts
+
+* use Blade to create prompts
+* version control with git
